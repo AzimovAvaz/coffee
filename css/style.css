@@ -156,9 +156,6 @@ body {
     z-index: 2;
   
     height: 100vh;
-    background: -webkit-gradient(linear, left bottom, left top, from(rgba(254, 252, 247, 0.504981)), color-stop(55.94%, #FEFCF7));
-    background: -o-linear-gradient(bottom, rgba(254, 252, 247, 0.504981) 0%, #FEFCF7 55.94%);
-    background: linear-gradient(360deg, rgba(254, 252, 247, 0.504981) 0%, #FEFCF7 55.94%);
     -webkit-transform: translate(-200%);
     -ms-transform: translate(-200%);
     transform: translate(-200%);
@@ -181,9 +178,6 @@ body {
     color:#333D4B;
     display: block;
     margin-bottom: 32px;
-    -webkit-transition: 0.5s;
-    -o-transition: 0.5s;
-    transition: 0.5s;
 }
 
 
